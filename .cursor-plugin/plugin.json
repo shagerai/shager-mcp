@@ -1,0 +1,11 @@
+{
+  "name": "shager",
+  "description": "Plan, schedule and publish social posts across many accounts, answer comments and read results, without leaving Cursor.",
+  "version": "1.0.0",
+  "author": { "name": "Shager", "email": "hello@shager.ai", "url": "https://shager.ai" },
+  "homepage": "https://shager.ai/agents",
+  "repository": "https://github.com/shagerai/shager-mcp",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": ["social media", "scheduling", "publishing", "analytics", "mcp"]
+}

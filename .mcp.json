@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "shager": {
+      "type": "http",
+      "url": "https://app.shager.ai/api/mcp"
+    }
+  }
+}

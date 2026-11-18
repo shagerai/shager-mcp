@@ -1,0 +1,10 @@
+{
+  "name": "shager",
+  "version": "1.0.0",
+  "description": "Schedule and publish social posts to many accounts, answer comments and see results, from Gemini CLI.",
+  "mcpServers": {
+    "shager": {
+      "httpUrl": "https://app.shager.ai/api/mcp"
+    }
+  }
+}
